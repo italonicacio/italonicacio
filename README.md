@@ -3,7 +3,7 @@
 
 Sou estudante de Ciência de Dados e Inteligência Artificial, atualmente faço iniciação científica como desenvolvedor na área de química quântica computacional.
 
-Áreas de Interesses:
+Áreas de Interesse:
 - Computação de Alto Desempenho
 - Pesquisa Operacional
 - Desenvolvimento com C++
