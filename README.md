@@ -1,5 +1,5 @@
 
-<h2 align=center>Olá, Meu nome é Ítalo Nicácio</h1>
+<h2 align=center>Olá, meu nome é Ítalo Nicácio</h1>
 
 Sou estudante de Ciência de Dados e Inteligência Artificial, atualmente faço iniciação científica na área de química quântica computacional.
 
