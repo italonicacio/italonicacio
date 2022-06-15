@@ -5,6 +5,7 @@ Sou estudante de Ciência de Dados e Inteligência Artificial, atualmente faço 
 
 Áreas de Interesse:
 - Computação de Alto Desempenho
+- Computação Quântica 
 - Pesquisa Operacional
 - Desenvolvimento com C++
 - Desenvolvimento com Python
