@@ -1,12 +1,11 @@
 <h2 align=center>Olá, meu nome é Ítalo Nicácio</h2>
 
-Sou estudante de Ciência de Dados e Inteligência Artificial, atualmente faço iniciação científica na área de química quântica computacional.
+Sou desenvolvedor de software, formado em Ciência de Dados e Inteligência Artificial.
 
 Áreas de Interesse:
 - Computação de Alto Desempenho
 - Desenvolvimento com C++
 - Desenvolvimento com Python
-- Computação Quântica 
 - Pesquisa Operacional
 - Análise Numérica
 
